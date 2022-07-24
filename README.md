@@ -1,4 +1,8 @@
 ## Hi there 👋
+![LinkedIn URL](https://img.shields.io/twitter/url?label=linkedin&logo=linkedin&style=social&url=https%3A%2F%2Flinkedin.com%2Fin%2Fthazelart)
+![Twitter URL](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fthazelart)
+![Reddit URL](https://img.shields.io/twitter/url?label=reddit&logo=reddit&style=social&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fthazelart)
+![Keybase URL](https://img.shields.io/twitter/url?label=Keybase&logo=keybase&style=social&url=https%3A%2F%2Fkeybase.io%2Fthazelart)
 
 I'm Thibault, a Site Reliability Engineer from France.    
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thazelart&show_icons=true&theme=prussian&hide_title=true)
