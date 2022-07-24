@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Thibault, a Site Reliability Engineer from France.    
+![Github stats](https://github-readme-stats.vercel.app/api?username=thazelart&show_icons=true&theme=prussian&hide_title=true)
+
+
 
 <!--
 **thazelart/thazelart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
