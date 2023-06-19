@@ -5,7 +5,7 @@
 [![Reddit URL](https://img.shields.io/twitter/url?label=reddit&logo=reddit&style=social&url=https://www.reddit.com/user/thazelart)](https://www.reddit.com/user/thazelart)
 [![Keybase URL](https://img.shields.io/twitter/url?label=Keybase&logo=keybase&style=social&url=https://keybase.io/thazelart)](https://keybase.io/thazelart)
 
-I'm Thibault, a Site Reliability Engineer from France working [@artifakt-io](https://github.com/artifakt-io).
+I'm Thibault, a Site Reliability Engineer from France.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thazelart&show_icons=true&theme=prussian&hide_title=true)
 
